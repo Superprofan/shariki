@@ -1,6 +1,4 @@
-# bithday
-for start 
-git clone https://github.com/nastyakpi1995/bithday.git
+# shariki
 
-demo version
-https://nastyakpi1995.github.io/bithday/
+for start
+git clone https://github.com/pavlodorosh/shariki.git
